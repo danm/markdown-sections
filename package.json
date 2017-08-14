@@ -1,0 +1,27 @@
+{
+  "name": "markdown-sections",
+  "version": "1.0.0",
+  "description": "create section tags from markdown headers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danm/markdown-sections.git"
+  },
+  "keywords": [
+    "markdown",
+    "html",
+    "scrollspy"
+  ],
+  "author": "Daniel Morrison <daniel.morrison@bbc.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danm/markdown-sections/issues"
+  },
+  "homepage": "https://github.com/danm/markdown-sections#readme",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
